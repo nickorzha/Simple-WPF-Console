@@ -1,7 +1,5 @@
-# Wpf.Terminal.Console
-
+# Simple.Wpf.Console
 Supported versions:
-
 	.NET Framework 4.7 and higher,
 	.Net Core 3.1 and higher,
 	.Net 5.0 and higher
